@@ -1,8 +1,8 @@
 {
   "meta": {
     "tournament": "2026 FIFA World Cup",
-    "last_updated": "2026-06-18",
-    "matchday": 2,
+    "last_updated": "2026-06-22",
+    "matchday": "2",
     "schema_version": "2.0",
     "notes": "Schema v2 — evidence-based metrics. Sources: xG from RealGM/xGscore; SoT, corners, set piece goals from Sofascore/LiveScore match pages; possession from FIFA/Opta. † = estimated/unconfirmed."
   },
@@ -389,9 +389,9 @@
       "home": "Czechia",
       "away": "S. Africa",
       "group": "A",
-      "homeScore": null,
-      "awayScore": null,
-      "played": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "played": true
     },
     {
       "md": 2,
@@ -399,9 +399,9 @@
       "home": "Switzerland",
       "away": "Bosnia",
       "group": "B",
-      "homeScore": null,
-      "awayScore": null,
-      "played": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "played": true
     },
     {
       "md": 2,
@@ -409,9 +409,9 @@
       "home": "Canada",
       "away": "Qatar",
       "group": "B",
-      "homeScore": null,
-      "awayScore": null,
-      "played": false
+      "homeScore": 6,
+      "awayScore": 0,
+      "played": true
     },
     {
       "md": 2,
@@ -419,9 +419,9 @@
       "home": "Mexico",
       "away": "S. Korea",
       "group": "A",
-      "homeScore": null,
-      "awayScore": null,
-      "played": false
+      "homeScore": 1,
+      "awayScore": 0,
+      "played": true
     },
     {
       "md": 2,
@@ -429,9 +429,9 @@
       "home": "USA",
       "away": "Australia",
       "group": "D",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "md": 2,
@@ -439,9 +439,9 @@
       "home": "Scotland",
       "away": "Morocco",
       "group": "C",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "md": 2,
@@ -449,9 +449,9 @@
       "home": "Brazil",
       "away": "Haiti",
       "group": "C",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 3,
+      "awayScore": 0
     },
     {
       "md": 2,
@@ -459,9 +459,9 @@
       "home": "Turkey",
       "away": "Paraguay",
       "group": "D",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "md": 2,
@@ -469,9 +469,9 @@
       "home": "Netherlands",
       "away": "Sweden",
       "group": "F",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 5,
+      "awayScore": 1
     },
     {
       "md": 2,
@@ -479,9 +479,9 @@
       "home": "Germany",
       "away": "Ivory Coast",
       "group": "E",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "md": 2,
@@ -489,9 +489,9 @@
       "home": "Ecuador",
       "away": "Curaçao",
       "group": "E",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "md": 2,
@@ -499,9 +499,9 @@
       "home": "Tunisia",
       "away": "Japan",
       "group": "F",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 4
     },
     {
       "md": 2,
@@ -509,9 +509,9 @@
       "home": "Spain",
       "away": "Saudi Arabia",
       "group": "H",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 4,
+      "awayScore": 0
     },
     {
       "md": 2,
@@ -519,9 +519,9 @@
       "home": "Belgium",
       "away": "Iran",
       "group": "G",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "md": 2,
@@ -529,9 +529,9 @@
       "home": "Uruguay",
       "away": "Cape Verde",
       "group": "H",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 2,
+      "awayScore": 2
     },
     {
       "md": 2,
@@ -539,9 +539,9 @@
       "home": "New Zealand",
       "away": "Egypt",
       "group": "G",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 1,
+      "awayScore": 3
     },
     {
       "md": 2,
