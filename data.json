@@ -629,9 +629,9 @@
       "home": "Czechia",
       "away": "Mexico",
       "group": "A",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 2
     },
     {
       "md": 3,
@@ -640,8 +640,8 @@
       "away": "S. Korea",
       "group": "A",
       "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "md": 3,
@@ -650,8 +650,8 @@
       "away": "Canada",
       "group": "B",
       "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "md": 3,
@@ -660,8 +660,8 @@
       "away": "Qatar",
       "group": "B",
       "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "homeScore": 3,
+      "awayScore": 1
     },
     {
       "md": 3,
@@ -670,8 +670,8 @@
       "away": "Brazil",
       "group": "C",
       "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "homeScore": 0,
+      "awayScore": 3
     },
     {
       "md": 3,
@@ -680,8 +680,8 @@
       "away": "Haiti",
       "group": "C",
       "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "homeScore": 4,
+      "awayScore": 2
     },
     {
       "md": 3,
