@@ -631,7 +631,7 @@
       "group": "A",
       "played": true,
       "homeScore": 0,
-      "awayScore": 2
+      "awayScore": 3
     },
     {
       "md": 3,
@@ -639,7 +639,7 @@
       "home": "S. Africa",
       "away": "S. Korea",
       "group": "A",
-      "played": false,
+      "played": true,
       "homeScore": 1,
       "awayScore": 0
     },
@@ -649,7 +649,7 @@
       "home": "Switzerland",
       "away": "Canada",
       "group": "B",
-      "played": false,
+      "played": true,
       "homeScore": 2,
       "awayScore": 1
     },
@@ -659,7 +659,7 @@
       "home": "Bosnia",
       "away": "Qatar",
       "group": "B",
-      "played": false,
+      "played": true,
       "homeScore": 3,
       "awayScore": 1
     },
@@ -669,7 +669,7 @@
       "home": "Scotland",
       "away": "Brazil",
       "group": "C",
-      "played": false,
+      "played": true,
       "homeScore": 0,
       "awayScore": 3
     },
@@ -679,7 +679,7 @@
       "home": "Morocco",
       "away": "Haiti",
       "group": "C",
-      "played": false,
+      "played": true,
       "homeScore": 4,
       "awayScore": 2
     },
@@ -689,9 +689,9 @@
       "home": "Turkey",
       "away": "USA",
       "group": "D",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 3,
+      "awayScore": 2
     },
     {
       "md": 3,
@@ -699,9 +699,9 @@
       "home": "Paraguay",
       "away": "Australia",
       "group": "D",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "md": 3,
@@ -709,9 +709,9 @@
       "home": "Ecuador",
       "away": "Germany",
       "group": "E",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "md": 3,
@@ -719,9 +719,9 @@
       "home": "Curaçao",
       "away": "Ivory Coast",
       "group": "E",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 0,
+      "awayScore": 2
     },
     {
       "md": 3,
@@ -729,9 +729,9 @@
       "home": "Japan",
       "away": "Sweden",
       "group": "F",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 1,
+      "awayScore": 1
     },
     {
       "md": 3,
@@ -739,9 +739,9 @@
       "home": "Tunisia",
       "away": "Netherlands",
       "group": "F",
-      "played": false,
-      "homeScore": null,
-      "awayScore": null
+      "played": true,
+      "homeScore": 1,
+      "awayScore": 3
     },
     {
       "md": 3,
